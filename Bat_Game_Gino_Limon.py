@@ -73,7 +73,7 @@ def entrance_fu():
     pd.set_option('display.max_columns',500)
     pd.set_option('display.width',1000)
         #file import
-    file = 'Python/Projects Py/Bat_Game_Gino_Limon/Bat_Text_Game_2.xlsx'
+    file = 'Bat_Text_Game_2.xlsx'
     #reading file
     b_game = pd.read_excel(file)
     #soft coding column to read from
